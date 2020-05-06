@@ -1,2 +1,2 @@
-class ChattyStudent < Student 
+class ChattyStudent  
     
